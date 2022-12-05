@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1670248273 source:c:\users\lenovo\desktop\joke\main.cpp
+	<iostream>
+	<string>
+	<array>
+
+1670248323 source:c:\users\lenovo\desktop\joke\src\inventory.cpp
+
+1670246873 c:\users\lenovo\desktop\joke\include\inventory.h
+
